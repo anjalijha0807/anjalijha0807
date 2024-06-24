@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://aamazoon-clonee.netlify.app/](https://aamazoon-clonee.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/anjalijha0807?tab=repositories)
 
 - 📫 How to reach me **jhaanjali0807@gmail.com**
 
