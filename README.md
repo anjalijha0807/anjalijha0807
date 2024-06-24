@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jhaanjali0807@gmail.com**
 
-- 📄 Know about my experiences [https://aamazoon-clonee.netlify.app/](https://aamazoon-clonee.netlify.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
