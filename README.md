@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jhaanjali0807@gmail.com**
 
-- ⚡ Fun fact **I have started enjoying my development and coding journey more than I though I would.**
+- ⚡ Fun fact **My programming journey has taught me how much power a mere semicolon holds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
